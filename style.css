@@ -1,0 +1,69 @@
+.main
+{
+    font-family: times new roman, serif;
+    font-size: 14;
+}
+
+.body
+{
+    position: relative;
+    width: 650px;
+    height: 600px;
+    top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header
+{
+    position: absolute;
+    width: 650px;
+    background-color: #1A1A1A;
+}
+
+.headerTitle
+{
+    position: absolute;
+    width: 250px;
+    height: 20px;
+    padding-top: 3px;
+    padding-left: 20px;
+}
+
+.headerNav
+{
+    position: absolute;
+    width: 250px;
+    height: 20px;
+    padding-top: 3px;
+    padding-left: 20px;
+}
+
+.headerNav a:link{text-decoration:none; color: #ffffff}
+.headerNav a:visited{text-decoration:none; color: #ffffff}
+.headerNav:hover{background-color: #ffffff}
+.headerNav:hover a:link{color: #760D0E}
+.headerNav:hover a:visited{color: #760D0E}
+
+.footerNav
+{
+    position: absolute;
+    width: 120px;
+    height: 20px;
+    text-align: center;
+    padding-top: 3px;
+}
+
+.footerNav a:link{text-decoration:none; color: #ffffff}
+.footerNav a:visited{text-decoration:none; color: #ffffff}
+.footerNav:hover{background-color: #ffffff}
+.footerNav:hover a:link{color: #760D0E}
+.footerNav:hover a:visited{color: #760D0E}
+
+.rollOver 
+{
+    display:block;
+}
+
+.content a:link{ text-decoration: none; color: #760D0E }
+.content a:visited{ text-decoration: none; color: #760D0E }

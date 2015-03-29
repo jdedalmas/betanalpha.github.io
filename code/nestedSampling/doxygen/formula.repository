@@ -1,0 +1,8 @@
+\form#0:$ P \propto \exp(-E)$
+\form#1:$\alpha$
+\form#2:$\beta$
+\form#3:$ \mathrm{Be}(\alpha, \beta)$
+\form#4:$x$
+\form#5:$x \in [0, 1] $
+\form#6:$ \log( \exp(a) + \exp(b) ) $
+\form#7:$(N + N_{eff}) \log \mathcal{L}_{\max} * w < t $
